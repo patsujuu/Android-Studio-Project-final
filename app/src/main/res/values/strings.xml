@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project_60160094</string>
+    <string name="facebook_app_id">328850018086233</string>
+    <string name="fb_login_protocol_scheme">fb328850018086233</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

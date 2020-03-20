@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DEF4FA">
+    <ImageView
+        android:id="@+id/ImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/mypic4" />
+
+    <ImageView
+        android:id="@+id/ImageView01"
+        android:layout_width="412dp"
+        android:layout_height="414dp"
+        android:layout_marginTop="0dp"
+        android:padding="75dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/mypic2" />
+
+    <RelativeLayout
+        android:id="@+id/ground"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:layout_below="@id/ImageView01"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="-43dp"
+        android:background="#90FFC7DB"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+
+        <TextView
+            android:id="@+id/textView01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Please Login !!"
+            android:textAlignment="center"
+            android:textColor="#2D0FB1"
+            android:textSize="30dp" />
+
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView01"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
