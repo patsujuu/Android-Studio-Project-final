@@ -7,7 +7,7 @@
   Facebook authentication
   Realtime database (No SQL)
   Graph by MPAndroidChart
-Layout (Linearlayout)
+  
 ![alt text](https://sv1.picz.in.th/images/2020/03/21/QQY2KJ.png)
 ![alt text](https://sv1.picz.in.th/images/2020/03/21/QQYsd9.png)
 ![alt text](https://sv1.picz.in.th/images/2020/03/21/QQYCPb.png)
