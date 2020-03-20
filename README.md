@@ -1,19 +1,19 @@
 # Android-Studio-Project-final
 1. INTRODUCTION
 
-  เป็นคนชื่นชอบดอกกุหลาบ เลยอยากทำแอพพลิที่แสดงเกี่ยวกับดอกกุกลาบที่ตนเองชื่นชอบ
+    เป็นคนชื่นชอบดอกกุหลาบ เลยอยากทำแอพพลิที่แสดงเกี่ยวกับดอกกุกลาบที่ตนเองชื่นชอบ
   
 2. TECHNOLOGY AND TECHNIQUES
 
-  Fragment 
+    Fragment 
   
-  Recycler view
+    Recycler view
   
-  Facebook authentication
+    Facebook authentication
   
-  Realtime database (No SQL)
+    Realtime database (No SQL)
   
-  Graph by MPAndroidChart
+    Graph by MPAndroidChart
   
 ![alt text](https://sv1.picz.in.th/images/2020/03/21/QQY2KJ.png)
 ![alt text](https://sv1.picz.in.th/images/2020/03/21/QQYsd9.png)
